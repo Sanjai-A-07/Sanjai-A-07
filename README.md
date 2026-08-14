@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Sanjai A
 
-<!--
-**Sanjai-A-07/Sanjai-A-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & ML Engineer | Python Developer | Software Engineer
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building practical AI, ML & software projects
+
+🚀 Currently working on:
+   Mobile → PC Live Typing System
+
+### 🛠️ Tech Stack
+
+Python • Java • JavaScript
+TensorFlow • Scikit-learn
+MongoDB • Node.js
+Git • GitHub
+
+### 🚀 Featured Projects
+
+🤖 Mobile-to-PC Live Typing System
+🧠 Diabetes Risk Prediction
+🖱️ AI Virtual Mouse
+🌐 Personal Portfolio
+
+### 📫 Connect With Me
+
+GitHub | LinkedIn | Portfolio
