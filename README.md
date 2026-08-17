@@ -20,7 +20,6 @@ Git • GitHub
 
 🤖 Mobile-to-PC Live Typing System
 🧠 Diabetes Risk Prediction
-🖱️ AI Virtual Mouse
 🌐 Personal Portfolio
 
 ### 📫 Connect With Me
