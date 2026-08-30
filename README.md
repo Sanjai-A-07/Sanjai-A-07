@@ -6,8 +6,6 @@
 
 💻 Building practical AI, ML & software projects
 
-🚀 Currently working on:
-   Mobile → PC Live Typing System
 
 ### 🛠️ Tech Stack
 
